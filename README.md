@@ -24,3 +24,28 @@ Responsive Website ✨ Animations
 <img align="left" alt="Visual Studio Code" width="26px" src="https://northcreation.agency/assets/Uploads/VSCode.png" />
 <img align="left" alt="Git" width="26px" src="https://www.campusmvp.es/catalogo/repository/product/curso-git.png" />
 <img align="left" alt="Node" width="26px" src="https://pbs.twimg.com/media/DeXrm8hX0AEuuGq.jpg" />
+
+<br>
+
+##
+
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+
+```
+<!--END_SECTION:waka-->
+
+
+
+##
+
+📈 **My GitHub Stats:**
+
+<div display="flex">
+  <p>
+    <img width="55%" align="top" src="https://github-readme-stats.vercel.app/api?username=shahriyor-sharifjonov&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=gotham" />
+    <img width="40%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriyor-sharifjonov&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=gotham"/>
+  </p>
+</div>
